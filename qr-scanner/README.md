@@ -52,7 +52,3 @@ The easiest way to deploy this application is to use the [Vercel Platform](https
 ## Browser Compatibility
 
 The QR code scanning functionality works best in modern browsers that support the WebRTC API for camera access. For the best experience, use Chrome, Firefox, or Edge.
-
-## License
-
-This project is MIT licensed.
